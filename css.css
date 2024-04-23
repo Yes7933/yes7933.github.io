@@ -1,0 +1,14 @@
+body {
+    background: rgb(132,234,255);
+    background: radial-gradient(circle, rgba(132,234,255,1) 0%, rgba(0,215,255,1) 100%);
+}
+
+#maindiv {
+    width: 80%;
+    height: 92%;
+    margin: 2% 10%;
+    display: flex;
+}
+.header {
+    
+}
