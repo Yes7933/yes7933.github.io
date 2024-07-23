@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yes7933.github.io/sitemap.txt
