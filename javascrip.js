@@ -1,4 +1,5 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
+	/*
     var containers = document.getElementsByClassName('gamecontainer');
     Array.from(containers).forEach(element => {
         element.addEventListener('mouseover', () => {
@@ -10,4 +11,5 @@ document.addEventListener('DOMContentLoaded', () => {
             element.classList.add('reversehoverclass');
         });
     });
+*/
 });
